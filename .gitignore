@@ -8,3 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Environment variables (contains API keys - DO NOT COMMIT)
+.env
+
+# Log files
+logs/
+*.log
