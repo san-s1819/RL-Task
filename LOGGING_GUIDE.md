@@ -61,6 +61,7 @@ Log files are automatically ignored by git (configured in `.gitignore`).
 - Test case results (pass/fail)
 - Final statistics
 - **No DEBUG spam** - keeps console clean
+- **ASCII-safe** - Unicode characters (like ✓) are automatically converted to avoid Windows encoding errors
 
 ### File Output (DEBUG and above)
 Everything from console PLUS:

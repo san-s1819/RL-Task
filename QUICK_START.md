@@ -21,7 +21,7 @@ hello-py/
 
 ```bash
 # 1. Make sure you're in the hello-py directory
-cd hello-py
+cd "S:\Portfolio\RL Enginer task\hello-py"
 
 # 2. Set your API key (if not already set)
 $env:ANTHROPIC_API_KEY="your_api_key_here"
